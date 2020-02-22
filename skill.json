@@ -1,0 +1,18 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:864173430084:function:077d496a-f64f-489a-8c83-e8b4580b161a:Release_0"
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "pdxhack2"
+        }
+      }
+    }
+  }
+}
